@@ -39,7 +39,7 @@ if os.path.isfile(f'../__repos__.json'):
 print("[ LOG ] Generating __repos__.json")    
 
 with open(f'../__repos__.json','a+',encoding="utf-8") as f:
-    f.write(json.dumps(__repos__))
+    f.write(json.dumps(__repos__,indent=4))
 
 print("[ SUCCESS ] Generated readme.md for all repository's")    
 print("[ SUCCESS ] Generated __repos__.json")    
