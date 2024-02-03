@@ -1,0 +1,16 @@
+{
+    "name":"Powerful Discord datamining repo with everything",
+    "description":"This repository is the best of all of them, it is fully automated, it includes literally anything you could think of!",
+    "link":"@github/xHyroM/discord-datamining",
+    "author":"@github/xHyroM",
+    "status":"🟢 Maintained",
+    "datamines":[
+        {"title":"Strings","postsComment":true},
+        {"title":"Experiments","postsComment":false},
+        {"title":"Articles (all types)","postsComment":false},
+        {"title":"Endpoints","postsComment":true},
+        {"title":"Subdomains","postsComment":true},
+        {"title":"Builds","postsComment":false},
+        {"title":"Applications (datamines every app id saved in client)","postsComment":false}
+    ]
+}

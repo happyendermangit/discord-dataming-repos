@@ -1,0 +1,10 @@
+{
+    "name":"Discord canary assets dataminer",
+    "description":"This repository was posting canary assets!",
+    "link":"@gitlab/bignutty/discord-asset-datamining",
+    "author":"@gitlab/bignutty",
+    "status":"🔴 Dead",
+    "datamines":[
+        {"title":"Assets","postsComment":false}
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "name":"Discord dataminer with chunks in seperate js files.",
+    "description":"This repository is different then others, because it saves each chunk into it's own javascript file (ex chunk 100, would be saved on 100.js)",
+    "link":"@github/Wumpus-Central/discrapper-canary",
+    "author":"@github/Wumpus-Central",
+    "status":"🟢 Maintained",
+    "datamines":[
+        {"title":"Strings","postsComment":true},
+        {"title":"Endpoints","postsComment":true},
+        {"title":"Screenshots","postsComment":true},
+        {"title":"Misc (like dismible contents and other random content)","postsComment":true}
+    ]
+}

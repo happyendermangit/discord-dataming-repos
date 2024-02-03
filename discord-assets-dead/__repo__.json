@@ -1,0 +1,10 @@
+{
+    "name":"Discord assets dataminer (By Wumpus Central)",
+    "description":"This repository was posting android assets! Check this alternative [discord-assets one](../discord-assets) (still maintained)",
+    "link":"@github/Wumpus-Central/Discord-Datamining-Android",
+    "author":"@github/Wumpus-Central",
+    "status":"🔴 Dead",
+    "datamines":[
+        {"title":"Assets","postsComment":false}
+    ]
+}

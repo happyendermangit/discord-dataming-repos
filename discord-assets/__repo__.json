@@ -1,0 +1,10 @@
+{
+    "name":"Discord assets dataminer (By happyendermangit)",
+    "description":"This repository is focused on discord assets, it datamines android app assets",
+    "link":"@github/happyendermangit/discord-assets_v2",
+    "author":"@github/happyendermangit",
+    "status":"🟢 Maintained",
+    "datamines":[
+        {"title":"Assets (Not automated comments)","postsComment":true}
+    ]
+}

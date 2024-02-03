@@ -1,0 +1,13 @@
+{
+    "name":"Discord Datamining (the og repo)",
+    "description":"This repository is the og, it is the first one that was created for discord datamining!",
+    "link":"@github/discord-datamining/discord-datamining",
+    "author":"@github/ThaTiemsz",
+    "status":"🟠 Might die",
+    "datamines":[
+        {"title":"Strings","postsComment":true},
+        {"title":"Experiments","postsComment":true},
+        {"title":"Screenshots","postsComment":true},
+        {"title":"Miscellaneous (like Dismible contents and other random content)","postsComment":true}
+    ]
+}

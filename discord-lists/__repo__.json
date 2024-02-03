@@ -1,0 +1,15 @@
+{
+    "name":"Discord Lists",
+    "description":"This repository is the og, it is the first one that was created for discord datamining!",
+    "link":"@github/Delitefully/DiscordLists",
+    "author":"@github/Delitefully",
+    "status":"🟢 Maintained",
+    "datamines":[
+        {"title":"Domains (discord officiel domains)","postsComment":false},
+        {"title":"User Flags","postsComment":false},
+        {"title":"Activities (discord voice channel acitivities)","postsComment":false},
+        {"title":"Short links (dis.gd short links)","postsComment":false},
+        {"title":"Parterned servers invites","postsComment":false},
+        {"title":"Verified servers invites","postsComment":false}
+    ]
+}

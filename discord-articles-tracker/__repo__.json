@@ -1,0 +1,10 @@
+{
+    "name":"Discord articles tracker",
+    "description":"This repository was tracking discord support articles! Check [Hyro Repo](../hyro-repo) as it is still maintained and tracks articles",
+    "link":"@gitlab/bignutty/discord-support",
+    "author":"@gitlab/bignutty",
+    "status":"🔴 Dead",
+    "datamines":[
+        {"title":"Articles","postsComment":false}
+    ]
+}
