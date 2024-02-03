@@ -15,6 +15,7 @@ for path in os.listdir("../"):
         if requiredFiles == os.listdir(f"../{path}"):
             print(f'[ LOG ] Generating readme.md file for {path}')
             data = json.load(open(f'../{path}/__repo__.json','r',encoding="utf-8"))
+            data['id'] = path
             template = open('./template.md').read()
             __repos__.append(data)
             
@@ -53,9 +54,9 @@ for __repo__ in __repos__:
     Authorname = __repo__.get('author').replace('@github/','').replace('@gitlab/','')
     Authorlink = __repo__.get('author').replace('@github','https://github.com').replace('@gitlab','https://gitlab.com')
     RepoName = __repo__.get('name')
-    RepoLink = __repo__.get('link').replace('@github','https://github.com').replace('@gitlab','https://gitlab.com')
+    RepoLink = __repo__.get('id')
     formattedAuthor = f"- [{Authorname}]({Authorlink})"
-    formattedLink = f"- [{RepoName}]({RepoLink})"
+    formattedLink = f"- [{RepoName}](./{RepoLink})"
     if formattedAuthor not in owners:
         owners.append(formattedAuthor)
     if formattedLink not in repos:

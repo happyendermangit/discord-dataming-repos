@@ -8,14 +8,14 @@
  
 ## List: 
 
-- [Discord articles tracker](https://gitlab.com/bignutty/discord-support)
-- [Discord assets dataminer (By happyendermangit)](https://github.com/happyendermangit/discord-assets_v2)
-- [Discord assets dataminer (By Wumpus Central)](https://github.com/Wumpus-Central/Discord-Datamining-Android)
-- [Discord canary assets dataminer](https://gitlab.com/bignutty/discord-asset-datamining)
-- [Discord Datamining (the og repo)](https://github.com/discord-datamining/discord-datamining)
-- [Discord Lists](https://github.com/Delitefully/DiscordLists)
-- [Discord dataminer with chunks in seperate js files.](https://github.com/Wumpus-Central/discrapper-canary)
-- [Powerful Discord datamining repo with everything](https://github.com/xHyroM/discord-datamining)
+- [Discord articles tracker](./discord-articles-tracker)
+- [Discord assets dataminer (By happyendermangit)](./discord-assets)
+- [Discord assets dataminer (By Wumpus Central)](./discord-assets-dead)
+- [Discord canary assets dataminer](./discord-canary-assets)
+- [Discord Datamining (the og repo)](./discord-datamining)
+- [Discord Lists](./discord-lists)
+- [Discord dataminer with chunks in seperate js files.](./discrapper-canary)
+- [Powerful Discord datamining repo with everything](./hyro-repo)
 
 
 ## Credits:
