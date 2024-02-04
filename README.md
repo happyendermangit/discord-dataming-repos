@@ -3,8 +3,7 @@
 #### 🚀List of discord datamining repos, useful tbh
 
 [![Discord](https://img.shields.io/discord/1103066670576193627?style=for-the-badge&color=%235562EA)](https://discord.gg/Q6UYNawvaF)
- ![GitHub contributors](https://img.shields.io/github/contributors/happyendermangit/discord-dataming-repos?style=for-the-badge) ![GitHub issues](https://img.shields.io/github/issues/happyendermangit/discord-dataming-repos?style=for-the-badge)
-
+ ![GitHub contributors](https://img.shields.io/github/contributors/happyendermangit/discord-dataming-repos?style=for-the-badge) ![GitHub issues](https://img.shields.io/github/issues/happyendermangit/discord-dataming-repos?style=for-the-badge) [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/happyenderman)
  
 ## List: 
 
